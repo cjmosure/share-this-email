@@ -1,0 +1,14 @@
+header.masthead {
+	background: $green;
+	color:#FFF;
+	padding:40px 0px;
+	margin-bottom:40px;
+	text-shadow: 0px 0px 5px rgba(59, 98, 76, 0.4); 
+}
+
+textarea.codeframe {
+	border: 1px solid $green;
+	font-family: monaco, Consolas, Lucida Console, monospace;
+	font-size:10px;
+	height: 200px;
+}
